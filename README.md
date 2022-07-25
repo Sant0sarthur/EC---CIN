@@ -1,5 +1,7 @@
-# LISTA-IP - CONDICIONAIS
-Lista de questões HUXLEY
+# LISTAS-IP (the huxley)
+
+# CONDICIONAIS
+
 ![image](https://user-images.githubusercontent.com/84881858/179118085-7d959efb-b208-40a2-92ff-4136410fca95.png)
 
 Data válida - https://www.thehuxley.com/problem/1113?quizId=7256 <br>

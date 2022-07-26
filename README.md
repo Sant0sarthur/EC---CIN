@@ -1,6 +1,6 @@
 # LISTAS-IP (the huxley)
 
-# CONDICIONAIS
+## CONDICIONAIS
 
 ![image](https://user-images.githubusercontent.com/84881858/179118085-7d959efb-b208-40a2-92ff-4136410fca95.png)
 
@@ -13,7 +13,7 @@ L1Q3 - Yoshi, o Melhor Amigo - https://www.thehuxley.com/problem/2225?quizId=725
 Teh Adventujrs of Meme Man: Sanduíche - https://www.thehuxley.com/problem/3911?quizId=7256 <br>
 Rebeka e a volta para casa - https://www.thehuxley.com/problem/3914?quizId=7256 <br>
 
-# LAÇOS
+## LAÇOS
 
 ![image](https://user-images.githubusercontent.com/84881858/180882847-8611b9b0-3d31-480b-9e2f-598361c23a7b.png)
 
